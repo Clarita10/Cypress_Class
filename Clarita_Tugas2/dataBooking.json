@@ -1,0 +1,11 @@
+{
+    "firstname" : "Clarita",
+    "lastname" : "Butar Butar",
+    "totalprice" : 150,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2025-05-01",
+        "checkout" : "2025-05-05"
+    },
+    "additionalneeds" : "Breakfast"
+}
